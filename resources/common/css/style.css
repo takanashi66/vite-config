@@ -1,0 +1,5 @@
+@import "./modules/reset.css";
+@import "./modules/default.css";
+
+@import "./pages/common.css";
+@import "./pages/index.css";
